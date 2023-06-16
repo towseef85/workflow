@@ -1,0 +1,15 @@
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Application\bin\Debug\net6.0\WorkFlow.Application.deps.json
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Application\bin\Debug\net6.0\WorkFlow.Application.dll
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Application\bin\Debug\net6.0\WorkFlow.Application.pdb
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Application\obj\Debug\net6.0\WorkFlow.Application.csproj.AssemblyReference.cache
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Application\obj\Debug\net6.0\WorkFlow.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Application\obj\Debug\net6.0\WorkFlow.Application.AssemblyInfoInputs.cache
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Application\obj\Debug\net6.0\WorkFlow.Application.AssemblyInfo.cs
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Application\obj\Debug\net6.0\WorkFlow.Application.csproj.CoreCompileInputs.cache
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Application\obj\Debug\net6.0\WorkFlow.Application.dll
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Application\obj\Debug\net6.0\refint\WorkFlow.Application.dll
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Application\obj\Debug\net6.0\WorkFlow.Application.pdb
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Application\obj\Debug\net6.0\ref\WorkFlow.Application.dll
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Application\bin\Debug\net6.0\WorkFlow.Domain.dll
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Application\bin\Debug\net6.0\WorkFlow.Domain.pdb
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Application\obj\Debug\net6.0\WorkFlow.Application.csproj.CopyComplete

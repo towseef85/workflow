@@ -1,0 +1,12 @@
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Domain\bin\Debug\net6.0\WorkFlow.Domain.deps.json
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Domain\bin\Debug\net6.0\WorkFlow.Domain.dll
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Domain\bin\Debug\net6.0\WorkFlow.Domain.pdb
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Domain\obj\Debug\net6.0\WorkFlow.Domain.csproj.AssemblyReference.cache
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Domain\obj\Debug\net6.0\WorkFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Domain\obj\Debug\net6.0\WorkFlow.Domain.AssemblyInfoInputs.cache
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Domain\obj\Debug\net6.0\WorkFlow.Domain.AssemblyInfo.cs
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Domain\obj\Debug\net6.0\WorkFlow.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Domain\obj\Debug\net6.0\WorkFlow.Domain.dll
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Domain\obj\Debug\net6.0\refint\WorkFlow.Domain.dll
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Domain\obj\Debug\net6.0\WorkFlow.Domain.pdb
+C:\Users\Towseef\Documents\Testing\HR\WorkFlow-New\WorkFlow\WorkFlow.Domain\obj\Debug\net6.0\ref\WorkFlow.Domain.dll

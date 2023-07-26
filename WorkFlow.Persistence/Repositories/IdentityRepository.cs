@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using AutoMapper.QueryableExtensions;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -120,7 +121,7 @@ namespace WorkFlow.Persistence.Repositories
 
         public async Task<bool> EditUser(PostUserDto postUserDto, CancellationToken cancellationToken)
         {
-            var getUser = await _userManager.FindByEmailAsync(postUserDto.Email);
+            var getUser = await _userManager.FindByIdAsync(postUserDto.Id);
             var getRole = await _roleManager.FindByIdAsync(getUser.UserTypeId);
          
             if (getUser != null)
@@ -153,6 +154,25 @@ namespace WorkFlow.Persistence.Repositories
 
             }
             return false;
+        }
+
+        public async Task<GetUserDto> GetUserById(string id)
+        {
+            var resultdata = await _userManager.FindByIdAsync(id);
+            var result = new GetUserDto
+            {
+                Id = resultdata.Id,
+                UserName = resultdata.UserName,
+                Email = resultdata.Email,
+                EngName = resultdata.EngName,
+                ArbName = resultdata.ArbName,
+                UserMode = resultdata.UserMode,
+                UserTypeId = resultdata.UserTypeId,
+                Remarks = resultdata.Remarks,
+
+            };
+              
+            return result;
         }
     }
 }

@@ -13,6 +13,11 @@ namespace WorkFlow.API.Controllers
         {
             return HandleResult(await Mediator.Send(new RoleList.Query()));
         }
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetByID(string id)
+        {
+            return HandleResult(await Mediator.Send(new UserDetails.Query { Id = id }));
+        }
         [HttpGet("GetUserList")]
         public async Task<IActionResult> GetUserList()
         {
@@ -24,7 +29,7 @@ namespace WorkFlow.API.Controllers
             return HandleResult(await Mediator.Send(new CreateUser.Command {  User = User }));
         }
 
-        [HttpPut("EditUser")]
+        [HttpPut("EditUser/{id}")]
         public async Task<IActionResult> EditUser(PostUserDto user)
         {
             return HandleResult(await Mediator.Send(new EditUser.Command { User = user }));

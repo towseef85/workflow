@@ -7,6 +7,7 @@ namespace WorkFlow.Application.Interfaces
         Task<List<GetRoleDto>> GetAllRoles();
 
         Task<List<GetUserDto>> GetAllUsers();
+        Task<GetUserDto> GetUserById(string id);
         Task<bool> AddUserRole(PostRoleDto postRoleDto, CancellationToken cancellationToken);
 
         Task<bool> AddUser(PostUserDto postUserDto, CancellationToken cancellationToken);

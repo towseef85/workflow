@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using WorkFlow.Application.Dtos.IdentityDtos;
 using WorkFlow.Application.Dtos.PositionDtos;
 using WorkFlow.Application.Dtos.RequestConditionOperatorsDtos;
 using WorkFlow.Application.Dtos.RequestFormControlConditionsDtos;
@@ -44,6 +45,7 @@ namespace WorkFlow.Persistence.MappingProfiles
             CreateMap<PostUserConditionDto, RequestConditionUsers>();
 
             CreateMap<RequestConditionUsers, GetUsersConditionDto>();
+            CreateMap<AppUsers, GetUserDto>();
 
             //CreateMap<RequestFormControlConditionUserLevels, GetFormControlConditionsLevelsDto>();
             //CreateMap<PostFormControlConditionLevelsDto, RequestFormControlConditionUserLevels>();
